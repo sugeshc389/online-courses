@@ -365,6 +365,7 @@ header{
 
  /*============Media Queries(Tablets)===========*/
  @media screen and (max-width: 1024px){
+   
     .container{
         width: var(--container-width-md);
     }
